@@ -14,10 +14,15 @@ This project parses a WhatsApp chat export and performs basic sentiment analysis
 python -m pip install -r requirements.txt
 ```
 
+# mendatory for file run
+Place your exported WhatsApp chat file in the `data/` folder before running the script.
+
 ## Run
+
 
 ```bash
 python main.py --input data/whatsapp.txt
 ```
+ 
 
-Place your exported WhatsApp chat file in the `data/` folder before running the script.
+
