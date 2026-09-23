@@ -1,0 +1,21 @@
+28/06/26, 02:30 pm - Alice: Hey Bob, did you see the project updates?
+28/06/26, 02:33 pm - Bob: Hey! No, not yet. What's new?
+28/06/26, 02:37 pm - Alice: We need to finish the presentation by Friday.
+28/06/26, 02:42 pm - Bob: Oh wow, that is soon. I thought we had until next week.
+28/06/26, 02:50 pm - Alice: Yeah, management moved the deadline up.
+28/06/26, 02:55 pm - Bob: Classic. I can work on the slides tonight.
+28/06/26, 02:59 pm - Alice: Awesome! I will handle the data analysis part.
+28/06/26, 03:04 pm - Bob: Sounds like a plan. Let's sync tomorrow morning.
+28/06/26, 03:09 pm - Alice: Perfect. See you at 10 AM!
+28/06/26, 03:15 pm - Bob: Got it. Have a good evening!
+
+28/06/26, 02:30 pm - Alice: Hey Bob, did you see the project updates?
+28/06/26, 02:33 pm - Bob: No, I didn't see anything. I don't care about it anyway.
+28/06/26, 02:37 pm - Alice: We need to finish the presentation by Friday.
+28/06/26, 02:42 pm - Bob: No way. That's impossible. I'm not doing that.
+28/06/26, 02:50 pm - Alice: Management moved the deadline up.
+28/06/26, 02:55 pm - Bob: That is a terrible idea. They never plan things right.
+28/06/26, 02:59 pm - Alice: I will handle the data analysis part.
+28/06/26, 03:04 pm - Bob: It won't matter, this whole thing is going to fail.
+28/06/26, 03:09 pm - Alice: Let's sync tomorrow morning at 10 AM.
+28/06/26, 03:15 pm - Bob: Don't count on me. I won't be there.
